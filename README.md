@@ -1,4 +1,4 @@
-# Hi, I'm Maksym Torbenko
+# Hi, I'm Maksym
 
 I'm a Full Stack Developer with commercial and team-based experience building modern web applications and e-commerce solutions.
 
@@ -18,8 +18,3 @@ My main stack includes **React**, **Next.js**, **TypeScript**, **Node.js**, **Ex
 - CMS-driven product development
 - AI-related interface projects
 - Clean, scalable, user-focused solutions
-
-## Contact
-
-- **Email:** [maxim240305@gmail.com](mailto:maxim240305@gmail.com)
-- **LinkedIn:** [linkedin.com/in/maksym-torbenko](https://www.linkedin.com/in/maksym-torbenko)
